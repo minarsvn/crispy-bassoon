@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Hi!👋</title>
+      <link>https://einargudni.com,/blog</link>
+      <description>My online place for thoughts</description>
+      <language>en-us</language>
+      <managingEditor>einargudnig@gmail.com (Einar Guðni Guðjónsson)</managingEditor>
+      <webMaster>einargudnig@gmail.com (Einar Guðni Guðjónsson)</webMaster>
+      <lastBuildDate>Wed, 28 Jul 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://einargudni.com,/tags/next-js/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://einargudni.com,/blog/spotify</guid>
+    <title>Spotify - Now playing component</title>
+    <link>https://einargudni.com,/blog/spotify</link>
+    <description>Setup for creating a component showcasing what I am playing on spotify</description>
+    <pubDate>Wed, 28 Jul 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>next-js</category><category>development</category><category>personal-website</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/new-blog</guid>
+    <title>New website! Again??!</title>
+    <link>https://einargudni.com,/blog/new-blog</link>
+    <description>I made another new version of my blog. Not long since I made a big update to it. Now I used next.js. I also moved the blog to the index page so it will be more noticable.</description>
+    <pubDate>Mon, 05 Apr 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>next-js</category><category>programming</category>
+  </item>
+
+    </channel>
+  </rss>

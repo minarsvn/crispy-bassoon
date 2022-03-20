@@ -1,0 +1,334 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Hi!👋</title>
+      <link>https://einargudni.com,/blog</link>
+      <description>My online place for thoughts</description>
+      <language>en-us</language>
+      <managingEditor>einargudnig@gmail.com (Einar Guðni Guðjónsson)</managingEditor>
+      <webMaster>einargudnig@gmail.com (Einar Guðni Guðjónsson)</webMaster>
+      <lastBuildDate>Thu, 01 Jul 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://einargudni.com,/tags/til/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://einargudni.com,/blog/til/postchallenge</guid>
+    <title>Post 30-day challenge</title>
+    <link>https://einargudni.com,/blog/til/postchallenge</link>
+    <description>Reflections on the 30 day post challenge</description>
+    <pubDate>Thu, 01 Jul 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category><category>reflections</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/hanlons-razor</guid>
+    <title>TIL#30 - Hanlons razor</title>
+    <link>https://einargudni.com,/blog/til/hanlons-razor</link>
+    <description>The last post of the series</description>
+    <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/3d-shapes</guid>
+    <title>TIL#29 - 3d shapes</title>
+    <link>https://einargudni.com,/blog/til/3d-shapes</link>
+    <description>Three-D shapes to improve aesthetics on your website.</description>
+    <pubDate>Tue, 29 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/principles</guid>
+    <title>TIL#28 - Programming principles</title>
+    <link>https://einargudni.com,/blog/til/principles</link>
+    <description>Well known programming principles that can improve your life as a developer</description>
+    <pubDate>Mon, 28 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/react-thinking</guid>
+    <title>TIL# 27 - Thinking in react</title>
+    <link>https://einargudni.com,/blog/til/react-thinking</link>
+    <description>A great part of the react docs. On how you can think in react.</description>
+    <pubDate>Sun, 27 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/ui-ux-webistes</guid>
+    <title>TIL#26 - UI/UX websites</title>
+    <link>https://einargudni.com,/blog/til/ui-ux-webistes</link>
+    <description>Curated list of websites that talk about UI and UX</description>
+    <pubDate>Sat, 26 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/npm</guid>
+    <title>TIL#25 - npm commands</title>
+    <link>https://einargudni.com,/blog/til/npm</link>
+    <description>Useful npm commands</description>
+    <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/designquestions</guid>
+    <title>TIL#24 - Design questions</title>
+    <link>https://einargudni.com,/blog/til/designquestions</link>
+    <description>Questions some designing students wanted answers to</description>
+    <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/aws-toolbox</guid>
+    <title>TIL#23 - aws toolbox</title>
+    <link>https://einargudni.com,/blog/til/aws-toolbox</link>
+    <description>DevOPs tools for AWS</description>
+    <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/git-switch</guid>
+    <title>TIL#22 - git switch</title>
+    <link>https://einargudni.com,/blog/til/git-switch</link>
+    <description>A very useful git command</description>
+    <pubDate>Tue, 22 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/blockman</guid>
+    <title>TIL#21 - Blockman</title>
+    <link>https://einargudni.com,/blog/til/blockman</link>
+    <description>An interesting visual studio code extension</description>
+    <pubDate>Mon, 21 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/software</guid>
+    <title>TIL#20 - r&amp;r&amp;r</title>
+    <link>https://einargudni.com,/blog/til/software</link>
+    <description>High quality content about making better habits and improve your code</description>
+    <pubDate>Sun, 20 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/notation</guid>
+    <title>TIL#19 - Rough-notation</title>
+    <link>https://einargudni.com,/blog/til/notation</link>
+    <description>Impressive library that can improve your website design.</description>
+    <pubDate>Sat, 19 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/useeffect</guid>
+    <title>TIL#18 - useEffect</title>
+    <link>https://einargudni.com,/blog/til/useeffect</link>
+    <description>Deep dive into useEffect()</description>
+    <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/design</guid>
+    <title>TIL#17 - Cheating at design</title>
+    <link>https://einargudni.com,/blog/til/design</link>
+    <description>I am not good at designing, how can I make better looking websites?</description>
+    <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/photopea</guid>
+    <title>TIL#16 - photopea</title>
+    <link>https://einargudni.com,/blog/til/photopea</link>
+    <description>Free online alternative to Photoshop</description>
+    <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/css</guid>
+    <title>TIL#15 - Awesome CSS</title>
+    <link>https://einargudni.com,/blog/til/css</link>
+    <description>Lots of great CSS content.</description>
+    <pubDate>Tue, 15 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/storyset</guid>
+    <title>TIL#14 - storyset</title>
+    <link>https://einargudni.com,/blog/til/storyset</link>
+    <description>Free illustrations to improve the look of your website.</description>
+    <pubDate>Mon, 14 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/codesnippets</guid>
+    <title>TIL#13 - 30 seconds of code</title>
+    <link>https://einargudni.com,/blog/til/codesnippets</link>
+    <description>Great tool to quickly generate code snippets for you.</description>
+    <pubDate>Sun, 13 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/reactmodel2</guid>
+    <title>TIL#12 - React Mental Models v2 </title>
+    <link>https://einargudni.com,/blog/til/reactmodel2</link>
+    <description>Second version of mental models about React, this time talking aobut useState, useEffect and more.</description>
+    <pubDate>Sat, 12 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/reacmodel1</guid>
+    <title>TIL#11 React mental models</title>
+    <link>https://einargudni.com,/blog/til/reacmodel1</link>
+    <description>Mental models for react. Very insightful post!</description>
+    <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/react</guid>
+    <title>TIL#10 - React 18</title>
+    <link>https://einargudni.com,/blog/til/react</link>
+    <description>What is new in React 18?</description>
+    <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/alttext</guid>
+    <title>TIL#9 - Alt img text</title>
+    <link>https://einargudni.com,/blog/til/alttext</link>
+    <description>It is important to have well thought and good alternative text for images.</description>
+    <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/customhooks</guid>
+    <title>TIL#8 - Hooks</title>
+    <link>https://einargudni.com,/blog/til/customhooks</link>
+    <description>Custom hooks can help you better your components and I recommend that you use pre-made ones if you can.</description>
+    <pubDate>Tue, 08 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/darkmode</guid>
+    <title>TIL#7 - Dark Mode</title>
+    <link>https://einargudni.com,/blog/til/darkmode</link>
+    <description>Dark modes are everywhere! But you must think about how a well designed dark mode will look.</description>
+    <pubDate>Mon, 07 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/webcode</guid>
+    <title>TIL#6 - webcode.tools</title>
+    <link>https://einargudni.com,/blog/til/webcode</link>
+    <description>One place to quickly generate helpful code snippets.</description>
+    <pubDate>Sun, 06 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/readme</guid>
+    <title>TIL# 5 - readme.so</title>
+    <link>https://einargudni.com,/blog/til/readme</link>
+    <description>I am probably not the only one, but for me the better the github readme is the more I like the repo.</description>
+    <pubDate>Sat, 05 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/squash</guid>
+    <title>TIL#4 - Squash comits</title>
+    <link>https://einargudni.com,/blog/til/squash</link>
+    <description>Squashing your commits can help you keep your git history cleaner and who does not like clean history?</description>
+    <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/git-comments</guid>
+    <title>TIL#3 - Conventional commits</title>
+    <link>https://einargudni.com,/blog/til/git-comments</link>
+    <description>Git commit are one of these things that I thank many of us do not pay too much attention to. But we can improve that a lot!</description>
+    <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/vscode</guid>
+    <title>TIL#2 - Awesome VS code</title>
+    <link>https://einargudni.com,/blog/til/vscode</link>
+    <description>Great resource on how to make vs code better. You cna improve your productivity and efficiency if you really know how to use vs code.</description>
+    <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/cleancode</guid>
+    <title>TIL#1 - Clean Code</title>
+    <link>https://einargudni.com,/blog/til/cleancode</link>
+    <description>Name me a developer that has not heard of Clean Code</description>
+    <pubDate>Tue, 01 Jun 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+  <item>
+    <guid>https://einargudni.com,/blog/til/challenge</guid>
+    <title>30-day blog post flood</title>
+    <link>https://einargudni.com,/blog/til/challenge</link>
+    <description>I want to get into habit of posting more on my blog, so I decided to challenge myself to post once a day for every day of June.</description>
+    <pubDate>Mon, 31 May 2021 00:00:00 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>til</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Hi!👋</title>
+      <link>https://einargudni.com,/blog</link>
+      <description>My online place for thoughts</description>
+      <language>en-us</language>
+      <managingEditor>einargudnig@gmail.com (Einar Guðni Guðjónsson)</managingEditor>
+      <webMaster>einargudnig@gmail.com (Einar Guðni Guðjónsson)</webMaster>
+      <lastBuildDate>Sat, 05 Mar 2022 07:08:23 GMT</lastBuildDate>
+      <atom:link href="https://einargudni.com,/tags/collection/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://einargudni.com,/blog/collection01</guid>
+    <title>Collection #01</title>
+    <link>https://einargudni.com,/blog/collection01</link>
+    <description>My first collection of interesting things!</description>
+    <pubDate>Sat, 05 Mar 2022 07:08:23 GMT</pubDate>
+    <author>einargudnig@gmail.com (Einar Guðni Guðjónsson)</author>
+    <category>collection</category><category>anki</category><category>password</category><category>old-browser</category><category>mix</category>
+  </item>
+
+    </channel>
+  </rss>
